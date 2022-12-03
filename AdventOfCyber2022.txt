@@ -24,3 +24,20 @@ Day 2
         
     Look through the log files for the flag. The format of the flag is: THM{}
         THM{STOLENSANTASLIST}
+
+Day 3
+    What is the name of the Registrar for the domain santagift.shop?
+        NAMECHEAP INC
+    
+    Find the website's source code (repository) on github.com and open the file containing sensitive credentials. Can you find the flag?
+        {THM_OSINT_WORKS}
+    
+    What is the name of the file containing passwords?
+        config.php
+
+    What is the name of the QA server associated with the website?
+        qa.santagift.shop
+
+    What is the DB_PASSWORD that is being reused between the QA and PROD environments?
+        S@nta2022
+
