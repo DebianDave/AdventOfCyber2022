@@ -41,3 +41,16 @@ Day 3
     What is the DB_PASSWORD that is being reused between the QA and PROD environments?
         S@nta2022
 
+
+Day 4
+    What is the name of the HTTP server running on the remote host?
+        Apache
+
+    What is the name of the service running on port 22 on the QA server?
+        SSH
+
+    What flag can you find after successfully accessing the Samba service?   
+        {THM_SANTA_SMB_SERVER}
+
+    What is the password for the username santahr?
+        santa25
