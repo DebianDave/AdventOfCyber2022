@@ -54,3 +54,12 @@ Day 4
 
     What is the password for the username santahr?
         santa25
+
+
+Day 5
+    
+    Use Hydra to find the VNC password of the target with IP address 10.10.52.4. What is the password?
+        1q2w3e4r
+    
+    Using a VNC client on the AttackBox, connect to the target of IP address 10.10.52.4. What is the flag written on the target’s screen?
+        THM{I_SEE_YOUR_SCREEN}
