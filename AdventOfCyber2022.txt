@@ -66,3 +66,19 @@ Day 6
     What is the second tactic marked in the Mitre ATT&CK section?
         Defense Evasion
         macro_hunter        
+
+Day 7
+    What is the version of CyberChef found in the attached VM?
+        9.49.0
+    
+    How many recipes were used to extract URLs from the malicious doc?
+        10
+    
+    We found a URL that was downloading a suspicious file; what is the name of that malware?
+        mysterygift.exe
+    
+    What is the last defanged URL of the bandityeti domain found in the last step?
+        hxxps[://]cdn[.]bandityeti[.]THM/files/index/
+    
+    What is the ticket found in one of the domains? (Format: Domain/<GOLDEN_FLAG>)
+        THM_MYSTERY_FLAG
