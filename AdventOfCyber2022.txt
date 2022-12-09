@@ -82,3 +82,7 @@ Day 7
     
     What is the ticket found in one of the domains? (Format: Domain/<GOLDEN_FLAG>)
         THM_MYSTERY_FLAG
+
+Day 8
+    What flag is found after attacking the provided EtherStore Contract?
+        flag{411_ur_37h_15_m1n3}
