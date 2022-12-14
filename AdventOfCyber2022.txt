@@ -178,3 +178,11 @@ Day 13
     What are the connected IP addresses?
     Enter the IP addressed defanged and in numerical order. (format: IPADDR,IPADDR)
         20[.]99[.]133[.]109,20[.]99[.]184[.]37,23[.]216[.]147[.]76
+
+
+Day 14
+    What is the office number of Elf Pivot McRed?
+        134
+    
+    Not only profile pages but also stored images are vulnerable. Start with a URL of a valid profile image; what is the hidden flag?
+        THM{CLOSE_THE_DOOR}
