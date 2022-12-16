@@ -205,3 +205,18 @@ Day 15
 
     What defence technique can be used to make sure malicious files that can hurt elves are not uploaded?
         Malware Scanning
+
+Day 16
+    What is the value of Flag1?
+        THM{MCCODE, ELFMCCODE}
+
+    What is the value of Flag2?
+        THM{KODENROLL}
+    
+    What is the value of Flag3?
+        THM{Are we secure yet?}
+
+    What is the value of Flag4?
+        THM{SQLI_WHO???}
+
+        
