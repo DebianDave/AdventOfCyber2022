@@ -219,4 +219,44 @@ Day 16
     What is the value of Flag4?
         THM{SQLI_WHO???}
 
-        
+Day 17
+    Filtering for Usernames: How many usernames fit the syntax above?
+        8
+
+    Filtering for Usernames: One username consists of a readable word concatenated with a number. What is it?
+        User35
+
+    Filtering for Emails: How many emails fit the syntax above?
+        11
+
+    Filtering for Emails: How many unique domains are there?
+        8
+
+    Filtering for Emails: What is the domain of the email with the local-part "lewisham44"?
+        amg.com
+
+    Filtering for Emails: What is the domain of the email with the local-part "maxximax"?
+        fedfull.com
+
+    Filtering for Emails: What is the local-part of the email with the domain name "hotmail.com"?
+        hussain.volt
+
+    Filtering for URLs: How many URLs fit the syntax provided?
+        16
+
+    Filtering for URLs: How many of these URLs start with "https"?
+        7
+
+Day 18
+    What is the Challenge #1 flag?
+        THM{n0t_just_your_u$er}
+    From the Challenge 1 log, what user account was created?
+        BanditYetiMini
+    What is the Challenge #2 flag?
+        THM{wh@t_1s_Runn1ng_H3r3}
+    What was the User's path in the Challenge #2 log file?
+       SIGMA_AOC2022\Bandit Yeti 
+    What is the Challenge #3 flag?
+        THM{sch3dule_0npo1nt_101}
+    What was the MD5 hash associated with Challenge #3 logs?
+        2F6CE97FAF2DSEEA919E4393BDD416A7
