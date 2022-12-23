@@ -272,3 +272,7 @@ Day 21
         1.6.9
     What flag is obtained from viewing the RTSP stream? 
         THM{UR_CAMERA_IS_MINE}
+
+Day 22
+    Follow the instructions in the attached static site to help McSkidy reduce her attack surface against attacks from the Yeti. Use the flag as an answer to complete the task.
+        THM{4TT4CK SURF4C3 R3DUC3D}
